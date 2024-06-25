@@ -1,0 +1,6 @@
+@ContasEmpresaApp.API_HostAddress = http://localhost:5139
+
+GET {{ContasEmpresaApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
